@@ -1,6 +1,6 @@
 # drawio-library
 ## How to use this library
-Click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F1q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F2q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F3q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F4q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F5q_+.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2Fclassical.xml) to open a draw.io editor with the preloaded libraries.
+Click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F1q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F2q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F3q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F4q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F5qplus.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2Fclassical.xml) to open a draw.io editor with the preloaded libraries.
 
 There are 5 parts: ``1q``, ``2q``, ``3q``, ``4q``, ``5q+``, ``classical``. 
 
