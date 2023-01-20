@@ -1,12 +1,23 @@
 
 # Quantum Circuit Library
 
+
 ## How to use this library
-Click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F1q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F2q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F3q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F4q.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2F5qplus.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2Fclassical.xml) to open a draw.io editor with the preloaded libraries.
+There are two sizes of the library, big and small, everything but the size is identical. 
+<p align="center">
+  <img width="400" alt="Big vs small library" src="https://user-images.githubusercontent.com/70592365/213760818-c6d5475e-9204-474a-9b56-881f47a8ef79.png">
+</p>
 
-There are 5 library parts: ``1q``, ``2q``, ``3q``, ``4q``, ``5qplus``, ``classical``. 
+Both have 5 library parts: ``1q``, ``2q``, ``3q``, ``4q``, ``5qplus``, ``classical``.
 
-Please cite this repository with the ``CITATION.cff`` file when used in any kind of publication.
+For the <b> big circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F1qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F2qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F3qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F4qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F5qplusL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2FclassicalL.xml) to open a draw.io editor with the preloaded L libraries.
+
+For the <b> small circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F1qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F2qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F3qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F4qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F5qplusS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2FclassicalS.xml) to open a draw.io editor with the preloaded S libraries.
+
+
+
+
+Please cite this repository using the right panel or with the ``CITATION.cff`` file when used in any kind of publication.
 
   Enabling mathematical typesetting  |  Zoom
 :-------------------------:|:-------------------------:
@@ -38,7 +49,7 @@ Drag and drop the wanted initialization gates, here its three. | They could be a
 
 Toffoli Top             |  Toffoli Middle          | Toffoli Bottom
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/70592365/213369561-a934aac7-14fd-424c-aa11-c366e658203b.gif" alt="Toffoli 1" width="300"/> | <img src="https://user-images.githubusercontent.com/70592365/213370040-2abbe10c-cb84-4492-ae07-b25f9ca76048.gif" alt="Toffoli 2" width="300"/> | <img src="https://user-images.githubusercontent.com/70592365/213370229-b479ba2e-b724-4ff2-81e5-f0505bfebec8.gif" alt="Toffoli 3" width="300"/> |
+<img src="https://user-images.githubusercontent.com/70592365/213369561-a934aac7-14fd-424c-aa11-c366e658203b.gif" alt="Toffoli 1" width="250"/> | <img src="https://user-images.githubusercontent.com/70592365/213370040-2abbe10c-cb84-4492-ae07-b25f9ca76048.gif" alt="Toffoli 2" width="250"/> | <img src="https://user-images.githubusercontent.com/70592365/213370229-b479ba2e-b724-4ff2-81e5-f0505bfebec8.gif" alt="Toffoli 3" width="250"/> |
 
 
  Measurement             |  Mathematical labeling 
