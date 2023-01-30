@@ -3,16 +3,16 @@
 
 
 ## How to use this library
-There are two sizes of the library, big and small, everything but the size is identical. 
+There are two sizes of the library, big and small, everything but the size is identical. The diagrams are designed to be read from right to left.
 <p align="center">
   <img width="400" alt="Big vs small library" src="https://user-images.githubusercontent.com/70592365/213760818-c6d5475e-9204-474a-9b56-881f47a8ef79.png">
 </p>
 
 Both have 5 library parts: ``1q``, ``2q``, ``3q``, ``4q``, ``5qplus``, ``classical``.
 
-For the <b> big circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F1qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F2qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F3qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F4qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2F5qplusL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsL%2FclassicalL.xml) to open a draw.io editor with the preloaded L libraries.
+For the <b> big circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2F1qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2F2qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2F3qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2F4qL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2F5qplusL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsL%2FclassicalL.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2Fuseful.xml) to open a draw.io editor with the preloaded L libraries.
 
-For the <b> small circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F1qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F2qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F3qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F4qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2F5qplusS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2FlibsS%2FclassicalS.xml) to open a draw.io editor with the preloaded S libraries.
+For the <b> small circuits library </b> click on [this link](https://app.diagrams.net/?splash=0&libs=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2F1qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2F2qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2F3qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2F4qS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2F5qplusS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2FlibsS%2FclassicalS.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2FwilkensJ%2Fdrawio-library%2Fmain%2Flibs%2Fuseful.xml) to open a draw.io editor with the preloaded S libraries.
 
 
 
