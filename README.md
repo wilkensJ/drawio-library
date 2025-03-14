@@ -29,7 +29,7 @@ To use latex notation in the circuits and overall diagram document, click in the
 
 Save to file  |  Load other libraries
 :-------------------------:|:-------------------------:
-Select ``File``-> ``Export as`` and choose a format. You can save only a selected part of your diagram. | When other forms are needed like dashed rectangles, load other libraries with ``+ More Shapes`` option under the existing libraries. |
+Select ``File``-> ``Export as`` and choose a format. You can also save only a selected part of your diagram. | When other forms are needed like dashed rectangles, load other libraries with ``+ More Shapes`` option under the existing libraries. |
 <img width="400" alt="Bildschirmfoto 2023-01-19 um 21 52 27" src="https://user-images.githubusercontent.com/70592365/213525510-95255261-de82-4b24-ae4d-e597461a6c45.png"> | <img width="400" alt="Bildschirmfoto 2023-01-19 um 22 07 17" src="https://user-images.githubusercontent.com/70592365/213525566-b7ac4a83-aaf1-46a3-867d-60efb17d6222.png">
 
 
